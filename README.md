@@ -1,8 +1,11 @@
-# React + Vite
+# ToDo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple ToDo List application built with a MERN stack, featuring a backend API using Express and a frontend interface using React. The application allows users to manage their tasks with basic CRUD operations (Create, Read, Update, Delete).
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Clone the repository
+
+To clone the repository, use the following command:
+
+```bash
+git https://github.com/harikrishnaalvala/todo-assignment.git
